@@ -1,0 +1,3 @@
+www.viva64.com/en/w	1	err	Help: The documentation for all analyzer warnings is available here: https://www.viva64.com/en/w/.
+/root/devel/PVSTest/main.cpp	17	warn	V601 The bool type is implicitly cast to the class type. Inspect the second argument.
+/root/devel/PVSTest/main.cpp	9	warn	V730 Not all members of a class are initialized inside the compiler generated constructor. Consider inspecting: type.
